@@ -19,9 +19,12 @@ I am a software developer who loves learn new things every day, I am actually fo
 <br/>
 
 ### 📫 Contact me:
-<a href="https://twitter.com/Xathovic" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Xathovic" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/victor-arteaga-732991193/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="victorarteaga" height="30" width="30" /></a>
+<a href="https://twitter.com/Xathovic" target="blank"><img align="left" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Xathovic" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/victor-arteaga-732991193/" target="blank"><img align="left" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="victorarteaga" height="30" width="30" /></a>
 <br/>
+<br/>
+<img align="left" alt="gmail" width="30px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+<p>xathovic@gmail.com</p>
 <br/>
 
 ### GitHub Stats
