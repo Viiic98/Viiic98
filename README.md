@@ -16,7 +16,7 @@ I am a software developer who loves learn new things every day, I am actually fo
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Xathovic)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/viiic98/)
 
-<img alt="Gmail" src="https://img.shields.io/badge/vic.arteaga98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[<img alt="Gmail" src="https://img.shields.io/badge/vic.arteaga98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](#)
 
 <details>
   <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
