@@ -1,14 +1,11 @@
 ### Hey people I'm Víctor Arteaga!
 
-I am a software developer who loves learn new things every day, I am actually focused on the machine learning field.
+I am a software developer with an interest in Data Science, Machine Learning, and Artificial Intelligence. Passionate about projects where innovation is needed, adaptability to changes, and love to learn new things every day.
 
 ### About me
 
-- 🔭 I’m actually a machine learning student
-- 🌱 I’m currently learning more useful machine learning algorithms
-- 👯 I’m looking to collaborate on machine learning or data science competitions and also to colaborate in machine learning projects
-
-### Tecnologies and tools
+- 🌱 I’m currently learning more useful Machine Learning algorithms and tools to clean data to make it useful.
+- 👯 I’m looking to collaborate on Machine Learning or Data Science competitions also to collaborate in Machine Learning projects.
 
 
 ### 📫 Contact me:
